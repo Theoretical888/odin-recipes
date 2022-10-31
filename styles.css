@@ -1,0 +1,45 @@
+*{background-color:dimgray;
+}
+
+h1{text-align:center;
+color:gold;
+background-color:black;
+width:60%;
+margin: auto;}
+
+.links{font-size:24px;
+color: gold;
+text-align:center}
+
+img{margin-left: auto;
+margin-right: auto;
+margin-top: 25px;
+margin-bottom: 25px;
+
+display: block;}
+
+h2{color:goldenrod;
+text-align:center;}
+
+p{text-align:center;}
+
+
+.ingredients{width: 30%;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+margin-top: 15px;
+margin-bottom: 15px;}
+
+.directions{width:65%;
+margin-left: auto;
+margin-right: auto;
+text-align:left;
+align-items:center;
+margin-bottom:60px;}
+
+li{padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 0;
+padding-right: 0;}
+
